@@ -5,6 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+FontAwesome Library: You need to install the FontAwesome library in your project. If you're using React, you can install it via npm or yarn:
+###'npm install @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons'
+
+Chakra UI: Chakra UI is a popular component library for React that provides customizable UI components.
+###'npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion'
+
+React DatePicker: React DatePicker is used for date selection in forms. You need to install it separately.
+###'npm install react-datepicker'
 
 ### `npm start`
 
