@@ -1,3 +1,9 @@
+output pictures:
+![Screenshot 2024-08-22 184906](https://github.com/user-attachments/assets/dfbff986-a8e9-4ff1-b890-7cdb243cc78e)
+![Screenshot 2024-08-22 184920](https://github.com/user-attachments/assets/e8e2ba94-efde-40a3-bc19-faf92eff04f5)
+![Screenshot 2024-08-22 184932](https://github.com/user-attachments/assets/34e19232-2a56-40d0-b5ab-7c03c12f57f2)
+![Screenshot 2024-08-22 184947](https://github.com/user-attachments/assets/d5b4ec84-203d-404e-9da1-1e20791478f5)
+
 Flight Booking App:
 This project is a flight booking application developed with React and Chakra UI, utilizing FontAwesome icons and React DatePicker for date selection.
 Table of Contents
